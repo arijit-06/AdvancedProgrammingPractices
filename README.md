@@ -14,6 +14,23 @@ This repository contains Java programs organized by weekly topics for a comprehe
 - `SimpleCalculator.java` - Basic addition/subtraction calculator
 - `LeapYearCheck.java` - Leap year determination
 
+### Week 2 - Loops (For, While, Do-While)
+- `FactorialFor.java` - Factorial using for loop
+- `MultiplicationTableFor.java` - Multiplication table using for loop
+- `EvenNumbersFor.java` - Even numbers using for loop
+- `OddNumbersFor.java` - Odd numbers using for loop
+- `SimpleInterestFor.java` - Simple interest using for loop
+- `MultiplicationTableWhile.java` - Multiplication table using while loop
+- `StarPatternWhile.java` - Star pattern using nested while loops
+- `SumNaturalWhile.java` - Sum of natural numbers using while loop
+- `AverageWhile.java` - Average calculation using while loop
+- `PrintNumbersWhile.java` - Print numbers using while loop
+- `SumEvenDoWhile.java` - Sum of even numbers using do-while loop
+- `PowersOfTwoDoWhile.java` - Powers of 2 using do-while loop
+- `MultiplicationTableDoWhile.java` - Multiplication table using do-while loop
+- `FactorialDoWhile.java` - Factorial using do-while loop
+- `PositiveInputDoWhile.java` - Input validation using do-while loop
+
 ### Week 3 - Classes and Objects
 - `CarBasic.java` - Basic Car class with attributes
 - `Rectangle.java` - Rectangle class with area/perimeter calculations
@@ -82,6 +99,6 @@ java package2.ClassB
 
 ## Course Progression
 
-Week 1 → Week 3 → Week 4 → Week 5 → Week 6 → Week 7 → Week 8 → Week 9
+Week 1 → Week 2 → Week 3 → Week 4 → Week 5 → Week 6 → Week 7 → Week 8 → Week 9
 
 Each week builds upon previous concepts, providing a structured learning path through Java programming fundamentals to advanced topics.
