@@ -1,10 +1,13 @@
 # Java Programming Course - Weekly Assignments
 
+Last updated: 2025-10-25
+
 This repository contains Java programs organized by weekly topics for a comprehensive Java programming course.
 
 ## Folder Structure
 
 ### Week 1 - Conditional Statements & Control Flow
+
 - `EvenOddCheck.java` - Check if number is even or odd
 - `AgeVerification.java` - Voting eligibility based on age
 - `VendingMachine.java` - Simple vending machine simulation
@@ -15,6 +18,7 @@ This repository contains Java programs organized by weekly topics for a comprehe
 - `LeapYearCheck.java` - Leap year determination
 
 ### Week 2 - Loops (For, While, Do-While)
+
 - `FactorialFor.java` - Factorial using for loop
 - `MultiplicationTableFor.java` - Multiplication table using for loop
 - `EvenNumbersFor.java` - Even numbers using for loop
@@ -32,6 +36,7 @@ This repository contains Java programs organized by weekly topics for a comprehe
 - `PositiveInputDoWhile.java` - Input validation using do-while loop
 
 ### Week 3 - Classes and Objects
+
 - `CarBasic.java` - Basic Car class with attributes
 - `Rectangle.java` - Rectangle class with area/perimeter calculations
 - `Student.java` - Student class with grade calculation
@@ -39,6 +44,7 @@ This repository contains Java programs organized by weekly topics for a comprehe
 - `Person.java` - Person class with default and parameterized constructors
 
 ### Week 4 - Access Modifiers & Static
+
 - `StudentMarks.java` - Private variables with getter/setter
 - `EmployeeCounter.java` - Static variable for object counting
 - `MathUtilityDemo.java` - Static vs non-static methods
@@ -46,11 +52,13 @@ This repository contains Java programs organized by weekly topics for a comprehe
 - `package2/` - Classes demonstrating protected access across packages
 
 ### Week 5 - OOP Principles
+
 - `HospitalSystem.java` - **Encapsulation** example
 - `RideBookingApp.java` - **Abstraction** example
 - `UPIPaymentApp.java` - **Abstraction + Encapsulation** example
 
 ### Week 6 - Inheritance
+
 - `SingleInheritance.java` - Teacher → MathTeacher
 - `MultilevelInheritance.java` - Employee → Manager → SeniorManager
 - `HierarchicalInheritance.java` - Animal → Lion, Elephant, Monkey
@@ -58,10 +66,12 @@ This repository contains Java programs organized by weekly topics for a comprehe
 - `SuperKeyword.java` - Super keyword demonstration
 
 ### Week 7 - Polymorphism
+
 - `BillingSystem.java` - **Compile-time polymorphism** (Method overloading)
 - `BankPolymorphism.java` - **Runtime polymorphism** (Method overriding)
 
 ### Week 8 - Threading
+
 - `NumberThread.java` - Thread printing numbers 1-10
 - `OddEvenThreads.java` - Simultaneous odd/even number printing
 - `MultiplicationThreads.java` - Multiplication tables of 5 and 10
@@ -69,11 +79,13 @@ This repository contains Java programs organized by weekly topics for a comprehe
 - `SquareRunnable.java` - Runnable interface for squares 1-5
 
 ### Week 9 - GUI Programming
+
 - `LoginForm.java` - User login interface
 - `QuizForm.java` - Quiz application interface
 - `RegistrationForm.java` - User registration form
 
 ### Misc
+
 - Contains miscellaneous Java files and practice programs
 
 ## How to Run
@@ -83,6 +95,7 @@ This repository contains Java programs organized by weekly topics for a comprehe
 3. Run: `java ClassName`
 
 For packages (Week 4):
+
 ```bash
 cd week4
 javac package1/*.java package2/*.java
